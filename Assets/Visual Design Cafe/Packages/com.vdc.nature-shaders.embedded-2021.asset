@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1928048041, guid: b9e4fbc309dd78f47b2a2672da252c01, type: 3}
+  m_Name: com.vdc.nature-shaders.embedded-2021
+  m_EditorClassIdentifier: 
+  _standardPackage: {fileID: 102900000, guid: 76ee0be040765004d85bed4318af39e7, type: 3}
+  _highDefinitionPackage: {fileID: 102900000, guid: 76ee0be040765004d85bed4318af39e7,
+    type: 3}
+  _universalPackage: {fileID: 102900000, guid: 76ee0be040765004d85bed4318af39e7, type: 3}
+  _skipIfVariantInstalled:
+  - com.VisualDesignCafe.NatureShaders
+  - com.VisualDesignCafe.NatureShaders-Trial
+  - com.vdc.nature-shaders
+  - com.vdc.nature-shaders.trial
+  _dependencies: []
